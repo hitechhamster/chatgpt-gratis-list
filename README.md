@@ -29,7 +29,7 @@ Significado de las etiquetas:
 
 | No. | Sitio web | Etiquetas | Fecha agregada | Notas |
 | --- | --------- | --------- | -------------- | ----- |
-| 1 | https://heck.ai | 🏆 🆓 💪 🧰 | 2024-12-21 | Completamente gratuito sin inicio de sesión, soporte ilimitado para GPT-4o, DeepSeek V3, admite consultas con conexión a internet, carga de imágenes y pensamiento profundo. |
+| 1 | https://heck.ai/es | 🏆 🆓 💪 🧰 | 2024-12-21 | Completamente gratuito sin inicio de sesión, soporte ilimitado para GPT-4o, DeepSeek V3, admite consultas con conexión a internet, carga de imágenes y pensamiento profundo. |
 | 2 | https://chat5.aiyunos.top | 🏆 🆓 💪 🧰 | 2023-11-15 | |
 | 3 | https://freegpt.tech | 🏆 🆓 💪 | 2024-10-11 | |
 | 4 | https://ai.wendabao.net | 🏆 🆓 💪 | 2024-02-04 | |
